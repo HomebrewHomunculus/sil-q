@@ -1,7 +1,7 @@
 # File: races.prf
 
 #
-# This file loads specific race "sub-files" 
+# This file loads specific race "sub-files"
 #
 
 ?:[EQU $RACE Noldor]
@@ -17,3 +17,6 @@
 %:edain.prf
 ?:1
 
+?:[EQU $RACE Vanyar]
+%:vanyar.prf
+?:1
