@@ -768,7 +768,7 @@ int elf_bane_bonus(monster_type* m_ptr)
     // Sil-x: a bit of a hack. Noldor and Sindar are coded as races 0 and 1 in
     // the races.txt file
     if ((r_ptr->flags2 & (RF2_ELFBANE))
-        && ((p_ptr->prace == 0) || (p_ptr->prace == 1)))
+        && ((p_ptr->prace == 0) || (p_ptr->prace == 1) || (p_ptr->prace == 4)))
     {
         // Dagohir must have killed between 32 and 63 elves
         return (5);
