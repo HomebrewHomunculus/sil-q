@@ -154,3 +154,25 @@ S:0:0:1:0
 D:Beneath the white banners of the Host of the Valar march
 D: the people of Ingwe, the High King of the Elves, and
 D: the first to enter Valinor.
+
+
+# Maiar
+
+N:12:Order of Banners
+A:the Order of Banners
+B:Banners
+F:MEL_AFFINITY
+S:2:0:0:0
+D:The Maiar of Banners are the vanguard of the Host
+D: of the Valar, headed by Eonwe, the banner-bearer of Manwe.
+D: The most skilled in arms of the Maiar, they are sent to
+D: wrest with the enemy in close combat.
+
+N:13:Order of the Staff
+A:the Order of the Staff
+B:the Staff
+F:PER_AFFINITY | SNG_AFFINITY
+S:0:0:0:2
+D:The Maiar of the Staff are sent by the Valar as advisors
+D: and speakers to Middle-earth. They are wise in all lore and
+D: the ways of magic.

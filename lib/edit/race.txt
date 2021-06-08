@@ -153,3 +153,24 @@ D: in the great Host of Valinor to face Morgoth in
 D: the War of Wrath.
 D: They are the smallest in number of the Elven peoples,
 D: yet the fairest and most beloved of the Valar.
+
+
+# - Maiar:
+#   - The lesser ainur
+#   - Stat modifers +3 +5 +5 +5
+#   - Will affinity
+#   - Per affinity
+N:5:Maiar
+S:3:5:5:5
+I:1:20:4865
+H:78:3
+W:150:8
+C:12|13
+F:WIL_AFFINITY | SNG_AFFINITY
+E:39:0:3:3     # ~ Wooden Torches (3)
+E:80:37:3:3    # , Fragment of Lembas (3)
+E:22:1:1:1     # | Spear (1)
+D:The Maiar are immortal spirits, the servants of the Powers
+D: on Arda.
+D: They are now sent forth to Middle-earth on a mission from the Valar.
+D: Failure in this mission would mean not returning to Valinor.
