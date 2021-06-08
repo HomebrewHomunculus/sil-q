@@ -169,7 +169,7 @@ C:12|13
 F:WIL_AFFINITY | SNG_AFFINITY
 E:39:0:3:3     # ~ Wooden Torches (3)
 E:80:37:3:3    # , Fragment of Lembas (3)
-E:22:1:1:1     # | Spear (1)
+E:23:10:1:1    # | Shortsword (1)
 D:The Maiar are immortal spirits, the servants of the Powers
 D: on Arda.
 D: They are now sent forth to Middle-earth on a mission from the Valar.
