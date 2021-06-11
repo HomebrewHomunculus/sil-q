@@ -51,10 +51,10 @@ M:G:19
 M:V:500
 
 # Maximum number of player races
-M:P:5
+M:P:6
 
 # Maximum number of player houses
-M:C:12
+M:C:14
 
 # Maximum number of player history lines
 M:H:165
